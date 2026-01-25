@@ -14,25 +14,27 @@ Gold Layer: Houses business-ready data modeled into a star schema required for r
 📖 Project Overview
 This project involves:
 
-Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+1.Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+2.ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+3.Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+4.Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
+1.SQL Development
+2.Data Architect
+3.Data Engineering
+4.ETL Pipeline Developer
+5.Data Modeling
+6.Data Analytics
 
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
-Objective
+
+Objective:-
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-Specifications
+Specifications:-
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 Data Quality: Cleanse and resolve data quality issues prior to analysis.
 Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
